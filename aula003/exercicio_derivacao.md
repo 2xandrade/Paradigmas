@@ -29,7 +29,7 @@ public class Principal {
 
 Regras para serem utilizadas:
 
-<programa> ::= "public class" <identificador> "{" <metodo> "}"
+```<programa> ::= "public class" <identificador> "{" <metodo> "}"
 
 <metodo> ::= "public static void main(String[] args)" "{" <comando> "}"
 
@@ -48,7 +48,7 @@ Regras para serem utilizadas:
 
 <identificador> ::= "i" | "Principal"
 
-<numero> ::= "0" | "10"
+<numero> ::= "0" | "10"```
 
 
 Derivação:
