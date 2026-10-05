@@ -13,6 +13,7 @@ R:
 Saída: 
 [1]
 [1,2]
+
 O conceito apresentado é o de Closure
 
 2.
@@ -26,6 +27,7 @@ static void zera(int[] v, int n) {
 
 R:
 Saída: 0 5
+
 O conceito apresentado é o de Passagem de parâmetros por valor/referência.
 
 3.
@@ -58,6 +60,7 @@ printf("%d\n", contador());
 
 R:
 Saída: 3
+
 O conceito é de referenciamento local
 
 5.
@@ -74,6 +77,7 @@ fn main() {
 ```
 R:
 Saída: [1,2,3] [2,4,6]
+
 O conceito é o de referência 
 
 6.
@@ -90,4 +94,5 @@ print(adiciona(5))
 
 R: 
 Saída: 5
+
 O conceito é o da regra de atribuição de local
